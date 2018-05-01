@@ -1,0 +1,3 @@
+0:0:0:0:0:0:0:1 - - [01/May/2018:18:15:11 +0300] "GET /kan-bagisi HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [01/May/2018:18:15:11 +0300] "GET /kan-bagisi/ HTTP/1.1" 200 57 http-bio-8080-exec-3 380
+0:0:0:0:0:0:0:1 - - [01/May/2018:18:15:14 +0300] "GET /kan-bagisi/asd HTTP/1.1" 200 27 http-bio-8080-exec-4 16
